@@ -24,3 +24,8 @@
 ### Cláusulas de guarda
 - separadas por; -> retorna 'true' se pelo menos uma guarda for 'true'(=OR)
 - separadas por, -> retorna 'true' se todas as guardas forem 'true'(=AND)
+
+### Operadores lógicos
+- ANDALSO = quando há duas comparações, para evitar problemas de precedência.
+- ORELSE = quando há duas comparações, para evitar problemas de precedência.
+
